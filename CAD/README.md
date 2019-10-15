@@ -1,1 +1,0 @@
-Unzip the BCN3DSigmaR19.STEP.zip to get the BCN3DSigmaR19.STEP file.
